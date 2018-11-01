@@ -21,7 +21,3 @@
     https://github.com/asianur/Tugas-ASD3/blob/master/MainStackGeneric.java
 1.m https://github.com/asianur/Tugas-ASD3/blob/master/QueueGeneric.java
     https://github.com/asianur/Tugas-ASD3/blob/master/MainQueueGeneric.java
-
-
-
-
